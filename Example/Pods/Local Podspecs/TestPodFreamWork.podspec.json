@@ -1,0 +1,22 @@
+{
+  "name": "TestPodFreamWork",
+  "version": "0.1.0",
+  "summary": "A short description of TestPodFreamWork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/17710114190@163.com/TestPodFreamWork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "17710114190@163.com": "liweiguo1215@163.com"
+  },
+  "source": {
+    "git": "https://github.com/17710114190@163.com/TestPodFreamWork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestPodFreamWork/Classes/**/*"
+}

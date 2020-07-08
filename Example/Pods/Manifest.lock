@@ -1,0 +1,16 @@
+PODS:
+  - TestPodFreamWork (0.1.0)
+
+DEPENDENCIES:
+  - TestPodFreamWork (from `../`)
+
+EXTERNAL SOURCES:
+  TestPodFreamWork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestPodFreamWork: aef094fde93030b9309cf1aa50c97c81a9ae49d3
+
+PODFILE CHECKSUM: aab98ce2205a69c6d86cc971f8043c3e67525f55
+
+COCOAPODS: 1.8.4
